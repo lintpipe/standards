@@ -1,6 +1,9 @@
 # Lintpipe Organization Standards
 
-This repository maintains coding standards for [Lintpipe projects](https://github.com/lintpipe), and also serves as a canonical example of Lintpipe standards configuration.
+This repository maintains coding standards for [Lintpipe projects][lintpipe],
+and also serves as a canonical example of Lintpipe standards configuration.
+
+[lintpipe]: https://github.com/lintpipe
 
 ## License
 
