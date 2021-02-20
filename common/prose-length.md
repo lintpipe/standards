@@ -17,10 +17,14 @@ Keep prose (Markdown, comments, etc) under 80 characters per line.
 
 ## Configuration
 
+eslint:
+
+    max-len: { comments: 80 }
+
 markdownlint:
 
     rule 'MD013', line_length: 80
 
-eslint:
+rustfmt:
 
-    max-len: { comments: 80 }
+    wrap_comments: true
